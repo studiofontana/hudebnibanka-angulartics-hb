@@ -1,6 +1,6 @@
 {
-  "name": "angulartics-intercom",
-  "main": "lib/angulartics-intercom.js",
+  "name": "angulartics-hb",
+  "main": "lib/angulartics-hb.js",
   "dependencies": {
     "angulartics": "~1.0.0"
   },
